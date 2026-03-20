@@ -1,0 +1,48 @@
+Geographic Use Restriction Addendum (GURAv1) v1.0
+
+This Addendum applies in addition to any existing license attached to this project (the “Base License”). In the event of conflict, this Addendum shall take precedence.
+
+1. Restricted Jurisdictions
+
+The permissions granted under the Base License are explicitly revoked for any individual, organization, or entity that:
+
+Resides in, is incorporated in, or operates within:
+Brazil
+The State of California, USA
+The State of Texas, USA
+The State of Utah, USA
+The State of Louisiana, USA
+The State of Colorado, USA
+The State of Illinois, USA
+The State of New York, USA
+OR holds citizenship, residency, or any form of residential permit in the above jurisdictions.
+
+2. Prohibited Activities
+
+Entities described in Section 1 are strictly prohibited from:
+
+Using the software or content
+Copying or distributing it
+Modifying or creating derivative works
+Incorporating it into other software or systems
+Selling, sublicensing, or commercially exploiting it
+Accessing or interacting with it in any form
+
+3. No Grant of Rights
+
+For the restricted jurisdictions listed above, no rights are granted, whether express or implied, under any applicable license.
+
+4. Enforcement
+
+Any use in violation of this Addendum shall be considered:
+
+A material breach of the Base License
+Unauthorized use
+Potential infringement under applicable law
+5. Severability
+
+If any part of this Addendum is found unenforceable, the remaining provisions shall remain in full force.
+
+6. Acceptance
+
+By using, copying, or interacting with this project, you agree to the terms of both the Base License and this Addendum.
